@@ -1,5 +1,6 @@
-
 Preprocessing Steps for SPM Basic Event Related Design
+======================================================
+
 
 To switch to a step type `git checkout STEP`, like:
 
